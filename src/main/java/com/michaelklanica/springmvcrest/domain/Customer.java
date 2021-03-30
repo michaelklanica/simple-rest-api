@@ -16,5 +16,10 @@ public class Customer {
     private Long id;
     private String firstName;
     private String lastName;
+    private String streetAddress;
+    private String city;
+    private String state;
+    private Integer zip;
+
 
 }
